@@ -13,5 +13,6 @@ export default defineConfig({
         secure: false,
       },
     },
+    allowedHosts: ['beer-seller-front-production.up.railway.app']
   },
 })
